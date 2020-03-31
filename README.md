@@ -1,4 +1,4 @@
-# SwetankPoddar.github.io
+# swetankpoddar.me
 
 This repo contains the pages required to run my github pages. 
 
