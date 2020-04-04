@@ -166,8 +166,8 @@ section.resume-section .resume-item .resume-date {
   section.resume-section .resume-item .resume-date {
       min-width: 18rem
   }
+  
 }
-
 @media (min-width:992px) {
   section.resume-section {
       padding-top: 3rem!important;
@@ -255,4 +255,8 @@ a:hover {
   to {
     transform: translate(0, 6px) scale(1, 0.8);
   }
+}
+
+#name-typewritter{
+  height: 2em;
 }
