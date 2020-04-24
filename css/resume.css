@@ -217,3 +217,7 @@ a:hover {
 .resume-download > a:hover {
   background-color:#4ea4dd;
 }
+
+#name-typewritter{
+  height: 2em;
+}
