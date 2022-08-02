@@ -6,9 +6,9 @@
     <script>
         var redirectToApp = function() {
             setTimeout(function appNotInstalled() {
-                window.location.replace("http://wwww.swetankpoddar.me");
+                window.location.replace("http://www.swetankpoddar.me");
             }, 100);
-            window.location.replace("com.example.eventmanager://auth");
+            window.location.replace("com.example.eventmanager://auth?" + window.location.search.substr(1));
         };
         window.onload = redirectToApp;
     </script>
